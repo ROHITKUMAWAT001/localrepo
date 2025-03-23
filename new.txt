@@ -1,0 +1,32 @@
+//hello every one my name is rohit kumawat and i work on the code for git
+These are connon Git commands used in various situations:
+start a working area (see also: git help tutorial)
+clone
+init
+work on the
+add
+restore
+examine the
+bisect
+diff
+grep
+log
+show
+status
+Clone a repository into a new directory
+
+
+
+grow,
+backfill
+branch
+commit
+merge
+rebase
+reset
+switch
+tag
+collaborate
+fetch
+pull
+push
